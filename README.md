@@ -49,9 +49,11 @@ Used the **Termius** mobile app to securely connect to the Kali Linux virtual ma
 
 ## 📄 Project Report (PDF)
 
-👉 [KALI-LINUX-Fundamentals-Final-Project.pdf](./KALI-LINUX-Fundamentals-Final-Project.pdf)
+
+👉 [KALI-LINUX-Fundamentals-Final-Project.pdf](https://github.com/user-attachments/files/21098806/KALI-LINUX-Fundamentals-Final-Project.pdf)
 
 Includes screenshots and documentation of completed tasks.
+
 
 ---
 
